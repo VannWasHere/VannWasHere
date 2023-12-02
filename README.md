@@ -19,7 +19,5 @@
 
 <br>
 <br>
-<p align="center">
-  <img style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=vannwashere&show_icons=true&locale=en" alt="vannwashere" />
-  <img style="margin-left: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=vannwashere&" alt="vannwashere" />
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vannwashere)](https://github.com/anuraghazra/github-readme-stats)
+<img style="margin-left: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=vannwashere&" alt="vannwashere" />

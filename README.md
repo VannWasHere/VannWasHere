@@ -19,5 +19,6 @@
 
 <br>
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VannWasHere)](https://github.com/anuraghazra/github-readme-stats)
+
+<img style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api?username=vannwashere&show_icons=true&theme=radical&" alt="vannwashere" />
 <img style="margin-left: 20px;" src="https://github-readme-streak-stats.herokuapp.com/?user=vannwashere&" alt="vannwashere" />

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Javascript - React**
 
-- 📫 How to reach me - **justinedonovan812@gmail.com**
+- 📫 Contact me - **justinedonovan812@gmail.com**
 
 - ⚡ Fun fact about me - **I currently love Javascript**
 

@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Justine Donovan</h1>
-<h3 align="center">Eager to learn more and more</h3>
+<h3 align="center">Learn more and more</h3>
 <br>
 <br>
 

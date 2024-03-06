@@ -12,7 +12,7 @@
   - Frontend development with **React** and **Vue.js**
   - Backend magic with **Python** and **Javascript**
   
-- 🎨 Always experimenting with new technologies and design patterns.
+- 🎨 Always experimenting with new technologies.
 
 - 📫 Reach out to me - **justinedonovan812@gmail.com**
 

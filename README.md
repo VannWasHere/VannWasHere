@@ -8,11 +8,9 @@
 
 - 🌠 I’m on a journey to become a **Fullstack Web Developer** and explore the vast world of technology.
 
-- 🚀 Currently mastering the art of:
-  - Frontend development with **React** and **Vue.js**
-  - Backend magic with **Python** and **Javascript**
-  
-- 🎨 Always experimenting with new technologies.
+- 🚀 Currently interest with:
+  - Frontend development with **React** and **Vue**
+  - Backend tech with **Python** and **Javascript**
 
 - 📫 Reach out to me - **justinedonovan812@gmail.com**
 
